@@ -1,0 +1,2 @@
+#Ignore the myenv python environment, will probably reinstall everything on the fly when using Docker
+myenv/
